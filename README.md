@@ -1,4 +1,5 @@
-==Instalação==
+Instalação do projeto
+-----------------------
 
 No diretório do projeto:
 1. Instale globalmente os seguintes pacotes:
