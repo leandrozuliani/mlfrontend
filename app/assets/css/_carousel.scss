@@ -1,0 +1,15 @@
+ article{ 
+    .product-more .carousel {
+        display: -ms-flexbox;
+        display: -webkit-box;
+        display: flex;
+        width: 100%;
+        height: 150px;
+        margin-right: 10px;
+        overflow: hidden;
+    }
+    .product-more .carousel figure {
+        max-width: 150px;
+        margin-left: 10px;
+    }
+ }

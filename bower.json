@@ -1,0 +1,21 @@
+{
+  "name": "bower",
+  "dependencies": {
+    "chico": "2.0.9"
+  },
+  "authors": [
+    "Leandro Zuliani <lfzuliani@gmail.com>"
+  ],
+  "description": "Gerenciador de dependencias do projeto",
+  "main": "bower",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

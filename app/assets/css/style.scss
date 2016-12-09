@@ -1,0 +1,44 @@
+
+@import './bower_components/chico/src/ui/styles/ui-theme';
+@import '_carousel';
+@import '_chico-custom';
+@import '_tabmenu';
+
+main {
+	background-color: #f6f6f6;
+    max-width: 830px;
+    width: 100%;
+    margin: 10px auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+    padding: 10px;
+    border: 2px solid #e4f2f9;
+    border-radius: 20px;
+
+}
+article {
+    	
+    .product-container {
+        box-sizing: border-box;
+        width: 100%;
+        display: flex;
+    }
+
+    .product-info {
+        padding-left: 25px;
+        max-width: 480px;
+        min-width: 390px;
+    }
+
+    .product-image img {
+        padding: 10px;
+        background-color: #ffffff;
+        min-width: 300px;
+        min-height: 300px;
+    }
+    .product-disclaimer {
+        margin-top: 10px
+    }
+
+}
+

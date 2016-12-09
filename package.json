@@ -1,0 +1,49 @@
+{
+  "name": "mercadolivre-test",
+  "version": "1.0.0",
+  "description": "Front-end test mercadolivre",
+  "private": true,
+  "author": "Leandro Zuliani",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "autoprefixer-core": "^5.2.1",
+    "chico": "2.0.9",
+    "cssnext": "^1.8.4",
+    "cssnano": "^3.5.2",
+    "grunt": "^0.4.5",
+    "grunt-babel": "^5.0.0",
+    "grunt-browser-sync": "^2.1.2",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "1.0.1",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-contrib-cssmin": "1.0.2",
+    "grunt-contrib-htmlmin": "^0.4.0",
+    "grunt-contrib-imagemin": "^0.9.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-eslint": "^16.0.0",
+    "grunt-filerev": "^2.2.0",
+    "grunt-mocha": "^0.4.12",
+    "grunt-newer": "^1.1.0",
+    "grunt-postcss": "^0.8.0",
+    "grunt-sass": "^1.0.0",
+    "grunt-svgmin": "^2.0.1",
+    "grunt-usemin": "^3.0.0",
+    "grunt-wiredep": "^2.0.0",
+    "jit-grunt": "^0.9.1",
+    "node-bourbon": "^4.2.3",
+    "postcss": "^5.2.6",
+    "postcss-browser-reporter": "^0.5.0",
+    "postcss-cssnext": "^2.9.0",
+    "postcss-import": "^9.0.0",
+    "postcss-reporter": "^2.0.0",
+    "postcss-url": "^5.1.2",
+    "time-grunt": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

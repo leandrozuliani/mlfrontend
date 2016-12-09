@@ -1,0 +1,12 @@
+/* css tab */
+input[name=tabs] { 
+    display: none; 
+}
+#panel-1, #panel-2 {
+	display: none;
+}
+#tab1:checked ~ .panels #panel-1,
+#tab2:checked ~ .panels #panel-2 {
+ display: block;
+
+}
